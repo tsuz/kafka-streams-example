@@ -1,0 +1,5 @@
+src/main/resources/*.properties
+*.properties
+.vscode
+
+target
